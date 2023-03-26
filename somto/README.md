@@ -1,2 +1,0 @@
-# somtooriaku.github.io
-Website
