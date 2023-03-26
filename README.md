@@ -1,2 +1,0 @@
-# somto
-My website portfolio
