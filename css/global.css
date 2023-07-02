@@ -69,7 +69,7 @@
 body {
   margin: 20px 20%;
   padding: 20px;
-  background-color: #2e3440;
+  background-color: gray;
   color: HSL(218, 27%, 78%);
   font-family: "Noto Sans", sans-serif;
   border-radius: 50px;
